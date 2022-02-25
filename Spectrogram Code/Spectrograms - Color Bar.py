@@ -51,6 +51,7 @@ plt.title(spec_title, fontsize = 20)
 plt.ylabel("Amplitude (µPa)")
 plt.xlabel("Time (s)")
 plt.savefig(wave_fpath+"{}.jpg".format(spec_title))
+plt.savefig(wave_fpath+"{}.png".format(spec_title))
 
 
 # In[339]:
