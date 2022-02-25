@@ -35,7 +35,7 @@ print("No. of .wav files in audio folder = ",len(audio_clips))
 # In[337]:
 
 
-n = 12
+n = 0
 x, sr = librosa.load(audio_fpath+audio_clips[n], sr=44100)
 spec_title = audio_clips[n].split(".")[0]
 print(type(x), type(sr))
