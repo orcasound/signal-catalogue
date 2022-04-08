@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Examples of Signal Catalogues (Catalogs)
 
 You can use the [editor on GitHub](https://github.com/orcasound/signal-catalogue/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Could a script in the main branch add or update markdown in this index.md file whenever a catalog is added or updated, as well as in additional .md files in this branch? It begs the question of whether markdown has any advantages over HTML...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
