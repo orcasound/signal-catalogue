@@ -16,6 +16,7 @@ Version 1:
 * manually generated Wordpress portfolio page, served at this URL -- [https://www.orcasound.net/portfolio/humpback-catalogue/](https://www.orcasound.net/portfolio/humpback-catalogue/)
 * source files (audio clips and images) stored in this repo (and shared with our [OrcaLab](https://orcalab.org/) collaborators)
 * built by Emily Vierling in 2022 (with mentors Val and Scott Veirs, and some help from her sister!)
+* [More info about Emily's humpback catalogue](https://github.com/orcasound/orcadata/wiki/Other-training-data:-humpback-whales#an-open-collaborative-humpback-signal-catalogue-catalog) and version 1 of this repo
 
 Vision for version 2:
 
