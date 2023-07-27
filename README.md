@@ -1,5 +1,5 @@
 # signal-catalogue
-A place to build and store humpback and orca signal catalogues (aka catalogs)
+A place to build and store humpback and orca signal catalogues (aka catalogs). This repo was created by Emily Vierling as part of the [Salish Sea Humpback Vocalization Catalogue project](https://www.orcasound.net/portfolio/humpback-catalogue/).
 
 ## Goals
 
